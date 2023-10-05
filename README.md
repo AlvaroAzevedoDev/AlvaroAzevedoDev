@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, me chamo Álvaro Azevedo 👋
 
-<!--
-**AlvaroAzevedoDev/AlvaroAzevedoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Eu sou um desenvolvedor [ **Back-End** ]
+
+🎓 Eu estudo: [**Desenvolvimento de Software com Foco em Back-End** em [ *Cubos Academy* ] & [**Análise e Desenvolvimento de Sistemas**] em [*Faculdade Unifatecie*]
+
+🔎 Também sou curioso sobre [Universo 🪐 , Jogos 🎮 , Tecnologias em geral 📺]
+
+✒️ Eu gosto de no meu tempo livre [Jogar jogos e Aprender novas línguas];
+
+
+🔧
+Tecnologias e Ferramentas
+
+HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub Figma VS Code
+
+Eu estou estudando... 🧩
+React NodeJS Vue.js Java Next JS
+
+Cursos realizados 🤓
+DDS Cubos Academy DBE Cubos Academy
